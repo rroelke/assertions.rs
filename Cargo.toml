@@ -1,0 +1,9 @@
+[package]
+
+name = "assertions"
+version = "0.0.1"
+authors = ["Ryan Roelke <ryan_roelke@brown.edu>"]
+
+[lib]
+
+name = "assertions"
